@@ -107,7 +107,7 @@ Class components have a `render()` function. Whatever is returned inside it is r
 ```jsx
 class Cat extends Component {
   render() {
-    return <Text>Hello, I am your cat!</Text>;
+    return <Text>Hello, I am your Cat!</Text>;
   }
 }
 ```
